@@ -1,6 +1,9 @@
 # Automagically Enhanced Lightning System (AutoELS)
 Simple tool for semi-automatically optimising the contrast of 16-bit images from a fluorescent microscope.
 
+![screenshot](https://user-images.githubusercontent.com/6079002/201373648-46699395-712e-4ed0-942b-c9130b3c7afd.JPG)
+
+
 # Compilation instructions
 On windows:
 1. Make sure you have a working python installation (tested using python 3.9.9)
